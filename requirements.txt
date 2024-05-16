@@ -1,0 +1,6 @@
+matplotlib
+mlflow
+pandas
+requests
+seaborn
+streamlit
