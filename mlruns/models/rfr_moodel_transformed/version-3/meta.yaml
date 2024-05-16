@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715809697286
+current_stage: None
+description: ''
+last_updated_timestamp: 1715809697286
+name: rfr_moodel_transformed
+run_id: f5b0a8e62c814901b5c4123fdbbb9af5
+run_link: ''
+source: mlflow-artifacts:/315067493747987350/f5b0a8e62c814901b5c4123fdbbb9af5/artifacts/loan_acceptance
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/315067493747987350/f5b0a8e62c814901b5c4123fdbbb9af5/artifacts/loan_acceptance
+user_id: null
+version: 3

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/c64fc5f336cb4f41be22b0770005567f/artifacts
+end_time: 1715820032599
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: c64fc5f336cb4f41be22b0770005567f
+run_name: decisiontree_maxDepth_2
+run_uuid: c64fc5f336cb4f41be22b0770005567f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715820026025
+status: 3
+tags: []
+user_id: Sai Deepak

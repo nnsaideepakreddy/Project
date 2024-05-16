@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/2838435867e94816905650e867721426/artifacts
+end_time: 1715874995798
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: 2838435867e94816905650e867721426
+run_name: angry-grub-355
+run_uuid: 2838435867e94816905650e867721426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715874987679
+status: 3
+tags: []
+user_id: Sai Deepak

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/9b0469b1abe140dbb15ce94bad2e1c47/artifacts
+deleted_time: 1715811103153
+end_time: 1715809953165
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: deleted
+run_id: 9b0469b1abe140dbb15ce94bad2e1c47
+run_name: worried-robin-62
+run_uuid: 9b0469b1abe140dbb15ce94bad2e1c47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715809948221
+status: 3
+tags: []
+user_id: Sai Deepak

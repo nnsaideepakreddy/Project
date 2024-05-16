@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/f816e432ee9a41bd86b6c12b0618e782/artifacts
+end_time: 1715804320285
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: f816e432ee9a41bd86b6c12b0618e782
+run_name: calm-gnat-717
+run_uuid: f816e432ee9a41bd86b6c12b0618e782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715804310161
+status: 3
+tags: []
+user_id: Sai Deepak

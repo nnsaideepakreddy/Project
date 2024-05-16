@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/5c6e4814175243b9b1ef257745512dff/artifacts
+end_time: 1715225717575
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: 5c6e4814175243b9b1ef257745512dff
+run_name: log_transformed model
+run_uuid: 5c6e4814175243b9b1ef257745512dff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715225707991
+status: 3
+tags: []
+user_id: Sai Deepak

@@ -1,0 +1,37 @@
+artifact_path: loan_acceptance
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+mlflow_version: 2.12.1
+model_size_bytes: 471559
+model_uuid: 4cfd33b3a36c4c18a0b97598d63c3f69
+run_id: 5c6e4814175243b9b1ef257745512dff
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  type: dataframe
+signature:
+  inputs: '[{"type": "long", "name": "ID", "required": true}, {"type": "double", "name":
+    "Age", "required": true}, {"type": "double", "name": "Experience", "required":
+    true}, {"type": "double", "name": "Income", "required": true}, {"type": "long",
+    "name": "ZIP_Code", "required": true}, {"type": "double", "name": "Family", "required":
+    true}, {"type": "double", "name": "CCAvg", "required": true}, {"type": "double",
+    "name": "Education", "required": true}, {"type": "double", "name": "Mortgage",
+    "required": true}, {"type": "long", "name": "Securities_Account", "required":
+    true}, {"type": "long", "name": "CD_Account", "required": true}, {"type": "long",
+    "name": "Online", "required": true}, {"type": "long", "name": "CreditCard", "required":
+    true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-05-09 03:35:08.188790'

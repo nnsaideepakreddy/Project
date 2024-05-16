@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/557b042f7d784395ad7324e58ea72891/artifacts
+end_time: 1715814985362
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: 557b042f7d784395ad7324e58ea72891
+run_name: Desision_tree
+run_uuid: 557b042f7d784395ad7324e58ea72891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715814980311
+status: 3
+tags: []
+user_id: Sai Deepak

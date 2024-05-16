@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/930d15cd22eb4681a62f8295ff0c7872/artifacts
+end_time: 1715811798241
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: 930d15cd22eb4681a62f8295ff0c7872
+run_name: carefree-snail-183
+run_uuid: 930d15cd22eb4681a62f8295ff0c7872
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715811797988
+status: 4
+tags: []
+user_id: Sai Deepak

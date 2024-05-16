@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/315067493747987350/5e9ab30616944b09b170e58477667479/artifacts
+end_time: 1715815108528
+entry_point_name: ''
+experiment_id: '315067493747987350'
+lifecycle_stage: active
+run_id: 5e9ab30616944b09b170e58477667479
+run_name: judicious-ant-788
+run_uuid: 5e9ab30616944b09b170e58477667479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715815103806
+status: 3
+tags: []
+user_id: Sai Deepak
